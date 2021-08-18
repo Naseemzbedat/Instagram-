@@ -5,7 +5,7 @@
 import os
 
 # User agents
-user_agents = [
+user_agents = [jawanz21]
     "Googlebot/2.1 (+http://www.google.com/bot.html)",
     "Mozilla/5.0 (compatible; bingbot/2.0;  http://www.bing.com/bingbot.htm)",
     "Mozilla/5.0 (compatible; adidxbot/2.0;  http://www.bing.com/bingbot.htm)",
